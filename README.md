@@ -10,4 +10,4 @@ Meu nome é Andrey
 
 abraomarquesandrey@gmail.com
 
-![descrição do GIF]([link GIF do Tenor](https://tenor.com/pt-BR/view/comemorando-palmeiras-palmeirense-ganhamos-vit%C3%B3ria-gif-1484876202432838773))
+!(https://tenor.com/pt-BR/view/comemorando-palmeiras-palmeirense-ganhamos-vit%C3%B3ria-gif-1484876202432838773))
