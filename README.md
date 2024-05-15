@@ -10,4 +10,4 @@ Meu nome é Andrey
 
 abraomarquesandrey@gmail.com
 
-(https://media1.tenor.com/m/FJtXCfVwvHUAAAAC/comemorando-palmeiras.gif)))
+![](https://media1.tenor.com/m/FJtXCfVwvHUAAAAC/comemorando-palmeiras.gif)
